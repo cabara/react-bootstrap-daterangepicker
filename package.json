@@ -17,7 +17,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": "^2.1.13"
+    "bootstrap-daterangepicker": "https://github.com/cabara/bootstrap-daterangepicker.git#right-moment-v2.1.13"
   },
   "peerDependencies": {
     "jquery": "^1.11.3",
